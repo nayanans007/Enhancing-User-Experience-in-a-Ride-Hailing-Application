@@ -1,4 +1,5 @@
 # Enhancing-User-Experience-in-a-Ride-Hailing-Application
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/d8962940-9ff1-4a30-b138-c221a6ac7a4a" />
 
 # 🚖 Digital Business Systems
 # A Study of Rapido's Digital Business Ecosystem
